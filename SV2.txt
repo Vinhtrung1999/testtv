@@ -1,0 +1,11 @@
+51800256	Tran Vinh Trung	4.8
+51800253	Tran Binh Trong	7.8
+51800934	Phan Xuan Thu	8.0
+51800293	Tran Van Huu	5.8
+51800549	Vo Thanh An	3.8
+51800064	Nguyen Ngoc An	5.2
+51800854	Nguyen Vo Ho Thien	7.2
+51800897	Tran Thanh Thai	5.4
+51800208	Vo Ngoc Chau	9.2
+51800679	Pham Anh Nhu	4.2
+51800040	Vo Van Dien	8.2
